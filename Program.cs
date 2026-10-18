@@ -125,7 +125,7 @@ przydzial = monety / bohaterowie;
 pozostale = monety % bohaterowie;
 
 Console.Write($"Każdy dostanie po {przydzial} monet. ");
-Console.WriteLine($"{pozostale} zostanie");*/
+Console.WriteLine($"{pozostale} zostanie");
 
 //Zadanie 11
 int dmg;
@@ -146,4 +146,5 @@ combo = 3*la + ha;
 
 Console.WriteLine($"Zwykły atak zadaje {la} obrażeń");
 Console.WriteLine($"Specjalny atak zadaje {ha} obrażeń");
-Console.WriteLine($"Combo zadaje zadaje {combo} obrażeń");
+Console.WriteLine($"Combo zadaje zadaje {combo} obrażeń");*/
+

@@ -12,7 +12,7 @@ plik README
 //
 /
 
-\## Kontakt
+## Kontakt
 
 Autor: Duba
 

@@ -11,3 +11,8 @@ plik README
 ///
 //
 /
+
+\## Kontakt
+
+Autor: Duba
+
